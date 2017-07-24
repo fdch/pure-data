@@ -144,7 +144,7 @@ msgid "removed .pdsettings file"
 msgstr "Archivo .pdsettings eliminado"
 
 msgid "couldn't delete .pdsettings file"
-msgstr "No pude borrar el archivo .pdsettings"
+msgstr "No pudo borrarse el archivo .pdsettings"
 
 msgid "failed to erase Pd settings"
 msgstr "Falla al borrar el archivo de configuraciones"
@@ -546,10 +546,10 @@ msgid "Pd search path for objects, help, fonts, and other files"
 msgstr "Ruta de búsqueda de Pd para objetos, ayuda, fuentes, y otros archivos"
 
 msgid "Install externals to:"
-msgstr ""
+msgstr "Instalar externos en:"
 
 msgid "Browse"
-msgstr ""
+msgstr "Explorar"
 
 msgid "Use standard paths"
 msgstr "Usar rutas estándar"
@@ -559,7 +559,7 @@ msgstr "Verbosa"
 
 #, fuzzy
 msgid "Install externals to directory:"
-msgstr "Instalar librerías en directorio:"
+msgstr "Instalar externos en directorio:"
 
 msgid "Add new library"
 msgstr "Añadir nueva librería"
@@ -590,20 +590,20 @@ msgstr "(Tcl) ERROR SIN TRATAR: "
 
 #, tcl-format
 msgid "[deken]: installed version [%1$s] > %2$s...skipping!"
-msgstr "[deken]: version instalada [%1$s] > %2$s...salteando!"
+msgstr "[deken]: versión instalada [%1$s] > %2$s...salteando!"
 
 #, tcl-format
 msgid "[deken]: installed version [%1$s] < %2$s...overwriting!"
-msgstr "[deken]: version instalada [%1$s] < %2$s...sobreescribiendo!"
+msgstr "[deken]: versión instalada [%1$s] < %2$s...sobreescribiendo!"
 
 #, tcl-format
 msgid "[deken]: installed version [%1$s] == %2$s...skipping!"
-msgstr "[deken]: version instalada [%1$s] == %2$s...salteando!"
+msgstr "[deken]: versión instalada [%1$s] == %2$s...salteando!"
 
 #, tcl-format
 msgid "[deken] deken-plugin.tcl (Pd externals search) loaded from %s."
 msgstr ""
-"[deken] deken-plugin.tcl (Búsqueda de externals para Pd) cargado de %s."
+"[deken] deken-plugin.tcl (Búsqueda de externos para Pd) cargado de %s."
 
 #, tcl-format
 msgid "[deken] Platform detected: %s"
@@ -634,7 +634,7 @@ msgid "[deken]: online? %s"
 msgstr "[deken]: ¿En línea? %s"
 
 msgid "Unable to perform search. Are you online?"
-msgstr "La búsqueda no pudo ser realizada. ¿Está usted online?"
+msgstr "La búsqueda no pudo ser realizada. ¿Está usted en línea?"
 
 msgid "No matching externals found. Try using the full name e.g. 'freeverb'."
 msgstr ""
@@ -643,7 +643,7 @@ msgstr ""
 
 msgid "Please select a (writable) installation directory!"
 msgstr ""
-"Por favor, selecciona un directorio de instalacion con permisos de escritura!"
+"Por favor, selecciona un directorio de instalación con permisos de escritura!"
 
 #, tcl-format
 msgid "Install to %s ?"
@@ -855,7 +855,7 @@ msgid "MIDI..."
 msgstr ""
 
 msgid "Zoom New Windows"
-msgstr "Agrandar nuevas ventanas"
+msgstr "Agrandar Nuevas Ventanas"
 
 msgid "Save All Preferences"
 msgstr "Guardar Preferencias"
@@ -882,7 +882,7 @@ msgid "Audio on"
 msgstr "Audio Encendido"
 
 msgid "Audio off"
-msgstr "Audio apagado"
+msgstr "Audio Apagado"
 
 msgid "(Tcl) MISSING CLOSE-BRACKET ']': "
 msgstr "(Tcl) FALTA CORCHETE DE CIERRE ']': "
@@ -903,19 +903,19 @@ msgid "Log:"
 msgstr ""
 
 msgid "fatal"
-msgstr ""
+msgstr "Fatal"
 
 msgid "error"
-msgstr ""
+msgstr "Error"
 
 msgid "normal"
-msgstr ""
+msgstr "Normal"
 
 msgid "debug"
-msgstr ""
+msgstr "Depurar"
 
 msgid "all"
-msgstr "todo"
+msgstr "Todos"
 
 msgid "New..."
 msgstr "Nuevo..."
@@ -928,8 +928,8 @@ msgstr "Eliminar"
 
 #, tcl-format
 msgid "Ignoring '%s': doesn't exist"
-msgstr ""
+msgstr "Ignorando '%s': no existente"
 
 #, tcl-format
 msgid "Ignoring '%s': doesn't look like a Pd-file"
-msgstr ""
+msgstr "Ignorando '%s': no parece ser un archivo de Pd"
